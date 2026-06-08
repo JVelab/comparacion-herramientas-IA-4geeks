@@ -1,0 +1,9 @@
+Herramienta;UI/UX;Costo;Velocidad;Dependencia de Plataforma;Control;Mantenibilidad;Calidad del Código;Reutilización;Mi Calificación para Mis Necesidades (1-5);Notas/Justificación
+Vercel v0;5;3;5;2;2;1;5;1;2;Muy bonito pero poco control y difícil de mantener
+Replit;4;1;4;1;1;3;5;1;2;Ideal para aprender, limitado para producción
+Lovable;5;3;4;3;3;3;4;1;2;Bueno para prototipos rápidos
+Windsurf;3;5;3;5;5;5;5;5;4;Muy potente, código reusable, buena calidad
+Cursor;2;4;3;5;4;5;4;5;3;Editor completo pero UI mejorable
+Claude Code;4;4;4;4;5;5;5;5;5;Control total, funciona con cualquier proyecto
+MiniMax-M2;4;4;5;4;4;4;4;4;4;Rápido, buen contexto, sin dependencias
+Mythos;3;3;3;3;3;3;3;3;3;Desconocido, potencial limitado
