@@ -1,9 +1,0 @@
-{
-  "name": "flask-jwt-auth-module",
-  "version": "1.0.0",
-  "description": "Secure JWT authentication module for Flask with email verification, password validation, and refresh tokens via HttpOnly cookies",
-  "main": "app.py",
-  "scripts": {
-    "start": "python app.py"
-  }
-}
